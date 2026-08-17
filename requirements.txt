@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-openai
+langchain-tavily
+tavily-python
+supabase
+streamlit
+python-dotenv
+langsmith
